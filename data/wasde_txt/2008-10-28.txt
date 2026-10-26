@@ -1,0 +1,238 @@
+
+WASDE-463-Revised          
+Approved by the World Agricultural Outlook Board        October 28, 2008
+
+
+NOTE:  This abbreviated report reflects changes to U.S. crop data for corn, 
+sorghum,and soybeans published by the National Agricultural Statistics Service
+in today's corrected October  Crop Production report.  Revised U.S. supply and 
+demand tables for pages 12, 13, and 15 are provided for comparison.  Revised 
+global supply and use estimates will be published in the November 10  WASDE 
+report.  
+
+COARSE GRAINS:  The U.S. corn balance sheet for 2008/09 is revised to
+reflect lower forecast area and production.  Planted and harvested area are 
+both lowered 1.0 million acres.  Corn production is forecast at 12.033 billion
+bushels, down 167 million from the October 10 forecast.  Feed and residual use 
+is projected 50 million bushels lower at 5.300 billion with the smaller crop
+and higher expected sorghum feeding.  Corn exports are projected 50 million 
+bushels lower at 1.950 billion on tighter supplies.  Ending stocks are 
+projected at 1.088 billion bushels, down 66 million from the previous 
+forecast.  The season-average farm price range is raised 5 cents on each 
+end of the range to $4.25 to $5.25 per bushel.
+
+The U.S. sorghum balance sheet for 2008/09 is revised to reflect higher 
+forecast area and production.  Sorghum production is forecast at 472 million
+bushels, up 8 million from the October 10 forecast.  Feed and residual use 
+is raised 10 million bushels with increased supplies.  The projected 
+season-average farm price is unchanged at $3.70 to $4.70 per bushel.
+
+OILSEEDS:  The U.S. soybean balance sheet for 2008/09 is revised to reflect
+lower forecast area and production.  Planted and harvested area are both
+reduced 1.1 million acres.  Soybean production is forecast at 2.94 billion 
+bushels, down 45 million from the October 10 forecast.  Soybean exports are 
+projected 30 million bushels lower at 1.02 billion bushels reflecting reduced 
+supplies and higher prices.  Soybean crush is unchanged from the October 10 
+projection leaving the soybean meal and soybean oil balance sheets unchanged.
+Ending stocks are projected at 205 million bushels, down 15 million from the 
+October 10 forecast.  The U.S. season-average soybean price range is projected
+at $9.70 to $11.20, up 10 cents on both ends of the range. 
+
+Approved by the Secretary of Agriculture and the Chairperson of the World 
+Agricultural Outlook Board, Gerald A. Bange, (202) 720-6030. 
+
+                              APPROVED BY:
+
+
+
+
+
+                              EDWARD T. SCHAFER
+                              SECRETARY OF AGRICULTURE
+
+                     WASDE-463-12 (Revised)
+
+           U.S. Feed Grain and Corn Supply and Use 1/
+==============================================================================
+                           :         :           2008/09  Projections
+        Item               : 2007/08 :========================================
+                           :   Est.  : September : October 10 : October (Rev.)
+==============================================================================
+
+FEED GRAINS                :
+Area                       :                   Million acres
+ Planted                   :  109.1         101.9        102.5          101.7
+ Harvested                 :   98.4          90.8         91.6           90.7
+Yield per harvested        :                    Metric tons
+     acre                  :   3.57          3.56         3.58           3.57
+                           :                 Million metric tons
+Beginning stocks           :   36.2          43.8         45.1           45.1
+Production                 :  350.9         323.5        328.2          324.1
+Imports                    :    3.3           2.7          2.7            2.7
+  Supply, total            :  390.3         370.0        376.0          371.9
+Feed and residual          :  159.6         140.5        145.6          144.6
+Food, seed & industrial    :  115.8         144.7        141.9          141.9
+  Domestic, total          :  275.4         285.2        287.5          286.5
+Exports                    :   69.9          54.7         54.9           53.7
+  Use, total               :  345.2         339.9        342.4          340.2
+Ending stocks, total       :   45.1          30.2         33.5           31.8
+  CCC inventory            :    0.0                        0.0            0.0
+  Free stocks              :   45.1                       33.5           31.8
+    Outstanding loans      :    2.7                        5.1            5.1
+                           :
+CORN                       :
+Area                       :                    Million acres
+ Planted                   :   93.6          87.0         86.9           85.9
+ Harvested                 :   86.5          79.3         79.2           78.2
+Yield per harvested        :                      Bushels
+    acre                   :  151.1         152.3        154.0          153.9
+                           :                   Million bushels
+Beginning stocks           :  1,304         1,576        1,624          1,624
+Production                 : 13,074        12,072       12,200         12,033
+Imports                    :     18            15           15             15
+  Supply, total            : 14,396        13,663       13,839         13,673
+Feed and residual          :  5,999         5,200        5,350          5,300
+Food, seed & industrial    :  4,338         5,445        5,335          5,335
+ Ethanol for fuel 2/       :  3,000         4,100        4,000          4,000
+  Domestic, total          : 10,336        10,645       10,685         10,635
+Exports                    :  2,435         2,000        2,000          1,950
+  Use, total               : 12,771        12,645       12,685         12,585
+Ending stocks, total       :  1,624         1,018        1,154          1,088
+  CCC inventory            :      0                          0              0
+  Free stocks              :  1,624                      1,154          1,088
+    Outstanding loans      :    106                        200            200
+Avg. farm price ($/bu) 3/  :   4.20    5.00- 6.00   4.20- 5.20     4.25- 5.25
+==============================================================================
+Note: Totals may not add due to rounding.  1/ Marketing year beginning
+September 1 for corn and sorghum; June 1 for barley and oats.  2/ For a
+further breakout of FSI corn uses including ethanol, see the ERS Feed Outlook
+table 5, or Feed Grains Database at "www.ers.usda.gov/db/feedgrains." 3/
+Marketing-year weighted average price received by farmers.
+
+                     WASDE-463-13 (Revised)
+ 
+        U.S. Sorghum, Barley and Oats Supply and Use 1/
+==============================================================================
+                           :         :      2008/09  Projections
+         Item              : 2007/08 :========================================
+                           :   Est.  : September : October 10 : October (Rev.)
+==============================================================================
+                           :                  Million bushels
+SORGHUM                    :
+Area planted (mil. acres)  :    7.7           7.3          8.1           8.3
+Area harv. (mil. acres)    :    6.8           6.4          7.2           7.4 
+Yield (bushels/acre)       :   74.2          66.1         64.1          63.9
+Beginning stocks           :     32            52           53            53
+Production                 :    505           426          464           472
+Imports                    :      0             0            0             0
+   Supply, total           :    537           478          517           525
+Feed and residual          :    171           210          235           245
+Food, seed & industrial    :     35            70           70            70
+   Total domestic          :    206           280          305           315
+Exports                    :    278           130          140           140
+   Use, total              :    484           410          445           455
+Ending stocks, total       :     53            68           72            70
+Avg. farm price ($/bu) 2/  :   4.08    4.45- 5.45   3.70- 4.70    3.70- 4.70
+                           :
+BARLEY                     :
+Area planted (mil. acres)  :    4.0           4.1          4.2           4.2
+Area harv. (mil. acres)    :    3.5           3.6          3.8           3.8
+Yield (bushels/acre)       :   60.4          59.9         63.6          63.6
+Beginning stocks           :     69            68           68            68
+Production                 :    212           218          239           239
+Imports                    :     32            25           25            25
+   Supply, total           :    312           311          333           333
+Feed and residual          :     34            50           80            80
+Food, seed & industrial    :    168           160          160           160
+   Total domestic          :    203           210          240           240
+Exports                    :     41            25           25            25
+   Use, total              :    244           235          265           265
+Ending stocks, total       :     68            76           68            68
+Avg. farm price ($/bu) 2/  :   4.02    5.15- 6.15   4.60- 5.60    4.60- 5.60
+                           :
+OATS                       :
+Area planted (mil. acres)  :    3.8           3.5          3.2           3.2
+Area harv. (mil. acres)    :    1.5           1.4          1.4           1.4
+Yield (bushels/acre)       :   60.9          62.3         63.5          63.5
+Beginning stocks           :     51            67           67            67
+Production                 :     92            90           89            89
+Imports                    :    123           105          105           105
+   Supply, total           :    265           262          260           260
+Feed and residual          :    121           120          120           120   
+Food, seed & industrial    :     75            75           75            75
+   Total domestic          :    196           195          195           195
+Exports                    :      3             3            3             3
+   Use, total              :    199           198          198           198
+Ending stocks, total       :     67            64           62            62
+Avg. farm price ($/bu) 2/  :   2.63    3.10- 3.80   2.65- 3.35    2.65- 3.35
+==============================================================================
+Note: Totals may not add due to rounding.  1/ Marketing year beginning
+September 1 for sorghum, June 1 for barley and oats.  2/ Marketing-year
+weighted average price received by farmers.
+
+                     WASDE-463-15 (Revised)
+ 
+U.S. Soybeans and Products Supply and Use (Domestic Measure) 1/
+==============================================================================
+                          :          :         2008/09  Projections
+        Item              : 2007/08  :========================================
+                          :    Est   : September : October 10 : October (Rev.)
+==============================================================================
+SOYBEANS:                 :                    Million acres
+Area                      :                            
+  Planted                 :   64.7           74.8         77.0          75.9
+  Harvested               :   64.1           73.3         75.5          74.4
+                          :
+                          :                      Bushels
+Yield per harvested       : 
+  acre                    :   41.7           40.0         39.5          39.5
+                          :
+                          :                   Million bushels
+                          :
+Beginning stocks          :    574            140          205           205
+Production                :  2,676          2,934        2,983         2,938
+Imports                   :     10             10            7             7
+  Supply, total           :  3,260          3,084        3,195         3,150
+Crushings                 :  1,801          1,785        1,760         1,760
+Exports                   :  1,160          1,000        1,050         1,020
+Seed                      :     93             90           90            90
+Residual                  :      0             74           75            75
+  Use, total              :  3,055          2,949        2,975         2,945
+Ending stocks             :    205            135          220           205
+Avg. farm price ($/bu) 2/ : 10.10     11.60-13.10   9.60-11.10    9.70-11.20
+                          :
+                          :
+                          :                   Million pounds
+SOYBEAN OIL:              :
+Beginning stocks          :  3,085          2,635        2,375         2,375
+Production                : 20,630 3/      20,350       20,065        20,065
+Imports                   :     60             50           50            50
+  Supply, total           : 23,775         23,035       22,490        22,490
+Domestic                  : 18,400         18,350       18,100        18,100
+  For methyl ester        :  3,050          3,100        3,100         3,100
+Exports                   :  3,000          2,350        2,350         2,350
+  Use, total              : 21,400         20,700       20,450        20,450
+Ending stocks             :  2,375          2,335        2,040         2,040
+Average price (c/lb) 2/   :  52.03    52.00-56.00  44.00-48.00   44.00-48.00
+                          :
+                          :
+                          :                 Thousand short tons
+SOYBEAN MEAL:             :
+Beginning stocks          :    346            300          300           300
+Production                : 42,314 3/      42,435       41,835        41,835
+Imports                   :    140            165          165           165
+  Supply, total           : 42,800         42,900       42,300        42,300
+Domestic                  : 33,200         34,000       33,400        33,400
+Exports                   :  9,300          8,600        8,600         8,600
+  Use, total              : 42,500         42,600       42,000        42,000
+Ending stocks             :    300            300          300           300
+Average price ($/s.t.) 2/ : 335.94         330.00-      260.00-       260.00-
+                          :                 390.00       320.00        320.00
+==============================================================================
+Note: Reliability calculations at end of report.  1/ Marketing year beginning
+September 1 for soybeans; October 1 for soybean oil and meal.  2/ Prices:
+Soybeans, marketing year weighted average price received by farmers; for Oil,
+simple average of crude soybean oil, Decatur; for Meal, simple average of 48
+percent, Decatur.  3/ Based on an October year crush of 1,783 million bushels.
+
+-------------------------------------End of File-----------------------------
